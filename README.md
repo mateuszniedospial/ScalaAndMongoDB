@@ -1,4 +1,4 @@
-# Scala MongoDB 
+# Scala And MongoDB 
 
 This repository contains a simple implementation
 of operations which one could do using Scala MongoDB Driver.
